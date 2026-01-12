@@ -1,6 +1,6 @@
-# DevOps Skill Analyzer & System Health Visualizer
+# System Health Visualizer
 
-A Python-based tool that runs a series of system health and DevOps-related tests, displays results, and generates a visual report using a bar graph.
+A Python-based tool that runs a series of system health, displays results, and generates a visual report using a bar graph.
 
 ---
 
@@ -42,3 +42,4 @@ Each bar is labeled for easy analysis.
 You can also add or customize tests under `Common` module.
 
 ---
+
